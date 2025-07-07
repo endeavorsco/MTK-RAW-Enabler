@@ -77,12 +77,7 @@ Tested across various MTK-powered smartphones.
 > All modifications and bug fixes have been thoroughly implemented and tested by **S. SHAJON**.
 
 ---
-
-## 📬 Coming Soon
-
-- Detailed device compatibility list
-- Custom RAW XML profiles for LMC
-- Telegram support group
-
+## Support And XML Group
+- Telegram support group: [t.me/MTK_RAW_Enabler](https://t.me/MTK_RAW_Enabler)
 ---
 
