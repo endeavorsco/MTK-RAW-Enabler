@@ -59,15 +59,6 @@ Tested across various MTK-powered smartphones.
 
 ---
 
-## 🧪 Tested Devices
-
-- Tecno Camon 20 Pro
-- Infinix Note series (MTK)
-- Realme MTK variants
-- Xiaomi Redmi Note (MTK models)
-
----
-
 ## ⚠️ Disclaimer
 
 - Not all devices may support RAW even after patching.
